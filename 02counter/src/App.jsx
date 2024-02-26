@@ -26,7 +26,8 @@ function App() {
 
   return (
     <>
-       <h1>hello anurag rishi</h1>
+       <h1>learning use state hooks </h1>
+      
        <h1>counter value : {count} </h1>
        <button onClick={addValue}> add value {count}</button>
        <br />
